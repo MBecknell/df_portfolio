@@ -7,4 +7,4 @@ Simmons University
 Life
 
 
-[link text](https://MBecknell.github.io/df_protfolio/Projects/Project1.html
+[link text](https://MBecknell.github.io/df_portfolio/Projects/Project1.html
